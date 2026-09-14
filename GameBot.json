@@ -16,7 +16,7 @@
     "maxReasonBytes": 300,
     "maxBanSeconds": 315360000,
     "commands": {
-        "ban": { "useGlobal": false },
-        "unban": { "useGlobal": false }
+        "ban": { "useGlobal": true },
+        "unban": { "useGlobal": true }
     }
 }
