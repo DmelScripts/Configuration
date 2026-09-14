@@ -1,0 +1,21 @@
+{
+    "guildId": "000000000000000000",
+    "channelId": "000000000000000000",
+    "adminIds": [
+        "000000000000000000",
+        "111111111111111111"
+    ],
+    "universeId": "10764926550",
+    "placeId": "117951390082378",
+    "topic": "DiscordCommandsV1",
+    "lockToChannel": false,
+    "cooldownSeconds": 3,
+    "serverScanPages": 10,
+    "maxPayloadBytes": 1024,
+    "maxReasonBytes": 300,
+    "maxBanSeconds": 315360000,
+    "commands": {
+        "ban": { "useGlobal": false },
+        "unban": { "useGlobal": false }
+    }
+}
