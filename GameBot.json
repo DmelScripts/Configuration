@@ -19,6 +19,6 @@
     "commands": {
         "ban": { "useGlobal": false },
         "unban": { "useGlobal": false },
-		"message" : { "useGlobal": true, "blacklist": ["867703866651967488", "1361049342651273548"] }
+		"message" : { "useGlobal": true, "blacklist": ["867703866651967488"] }
     }
 }
